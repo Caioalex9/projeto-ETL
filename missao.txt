@@ -1,0 +1,15 @@
+
+https://fakestoreapi.com/docs
+pegar api de usuarios carts products
+- aprender pegar api ✓
+- aprender a ler api ✓
+- ler 3 api (users, carts, products) ✓
+-------------------------------------
+ler api e gerar dataframe apartir dele
+- ler as 3 apis ✓
+- gerar dataframe apartir dele ✓
+- uso em todo jupyter notebook ✓
+- todo etl do projeto baseado na arquitetura medalhão
+-----------------------------------------
+- Tipagem da dados, modelagem de dados , estrutura de dados
+
