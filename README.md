@@ -99,4 +99,3 @@ Organização de código e documentação em Notebooks
 ✅ Dados limpos e padronizados
 ✅ 8+ análises de negócio
 ✅ Documentação em notebook
-✅ Pronto para postar no GitHub e LinkedIn!
